@@ -1,0 +1,3 @@
+﻿  finalproject.cpp
+E:\Academic Documents\Comprog1\finalproject\finalproject\finalproject.cpp(583,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  finalproject.vcxproj -> E:\Academic Documents\Comprog1\finalproject\Debug\finalproject.exe

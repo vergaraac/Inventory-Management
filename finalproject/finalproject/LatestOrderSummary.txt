@@ -1,0 +1,14 @@
+
+Summary of Orders: 
+
+
+Date: Sat Dec 19 00:53:43 2020
+
+ProductID      Description              Supplier Name            Item Price      Order Amount                UOM                      
+
+[P-1] 	Notebook (60 Leaves)          MAR Merchandise               P295               5               (10 pcs per Qty)
+[P-4] 	Mongol Pencil #2              EPLUS Stationary              P120               8               (12 pcs per Qty)
+[P-5] 	Elmer's Glue Small            Manuel Stationary, Inc        P252               9               (12 pcs per Qty)
+[P-6] 	Plastic Envelope Short        Bonus Merchandising, Inc      P165               7               (25 pcs per Qty)
+
+Total: Php 5858
